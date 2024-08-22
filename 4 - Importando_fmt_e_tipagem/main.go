@@ -21,5 +21,4 @@ func main() {
 	fmt.Printf("o tipo de E é %T", e)
 	// %v mostra o valor da variável
 	fmt.Println("o tipo de E é %v", e)
-	
 }
