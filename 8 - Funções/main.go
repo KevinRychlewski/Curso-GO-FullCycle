@@ -14,7 +14,6 @@ func main() {
 	}
 	fmt.Println(valor)
 
-	fmt.Println(sum(51, 2))
 }
 
 // Retornando mais de um valor
