@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+	// Criando um arquivo
 	f, err := os.Create("arquivo.txt")
 	if err != nil {
 		panic(err)
